@@ -1,0 +1,20 @@
+{
+  "rf_macro_f1_test": 0.9962701752695003,
+  "rf_accuracy_test": 0.9993269561991573,
+  "if_results": {
+    "false_alarm_rate": 0.050494494290375204,
+    "known_attacks": {
+      "BruteForce": 0.0,
+      "DDoS": 0.17,
+      "DoS": 0.7708519870514499,
+      "PortScan": 0.0013231402528668039,
+      "WebAttack": 0.040498442367601244
+    },
+    "zero_day": {
+      "Bot": 0.022380467955239063,
+      "Heartbleed": 1.0,
+      "Infiltration": 0.7777777777777778
+    }
+  },
+  "test_set_size": 377390
+}
